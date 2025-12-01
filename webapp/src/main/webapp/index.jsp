@@ -32,7 +32,7 @@
     <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
     <br>
 
-    <label for="spouce"><b>Spouce Name</b></labelg
+    <label for="spouce"><b>Spouce Name</b></labelg>
     <input type="text" placeholder="Enter Spouce Name" name="spouce" id="spouce" required>
     <br>
 
@@ -42,6 +42,10 @@
 
     <label for="sister"><b>Sister Name</b></label>
     <input type="text" placeholder="Enter Sister Name" name="sister" id="sister" required>
+    <br>
+
+    <label for="son"><b>Son Name</b></label>
+    <input type="text" placeholder="Enter Son Name" name="son" id="son" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
