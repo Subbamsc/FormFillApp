@@ -24,8 +24,12 @@
     <input type="text" placeholder="Enter Adhar Number" name="adhar" id="adhar" required>
     <br>
 
-     <label for="father"><b>Father Name</b></label>
+    <label for="father"><b>Father Name</b></label>
     <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
+    <br>
+
+    <label for="mother"><b>Mother Name</b></label>
+    <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
