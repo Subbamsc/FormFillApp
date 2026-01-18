@@ -2,55 +2,17 @@
   <div class="container">
     <h1>Welcome!! Subba DevOps Student Registration Form!!</h1>
     <p>Please fill in this form for registration!! Thank you</p>
-
     <hr>
-    <br>  
-    <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
-    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-    <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <br>
-
-    <label for="adhar"><b>Adhar Number</b></label>
-    <input type="text" placeholder="Enter Adhar Number" name="adhar" id="adhar" required>
-    <br>
-
-    <label for="father"><b>Father Name</b></label>
-    <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
-    <br>
-
-    <label for="mother"><b>Mother Name</b></label>
-    <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
-    <br>
-
-    <label for="spouce"><b>Spouce Name</b></labelg>
-    <input type="text" placeholder="Enter Spouce Name" name="spouce" id="spouce" required>
-    <br>
-
-    <label for="brother"><b>Brother Name</b></label>
-    <input type="text" placeholder="Enter Brother Name" name="brother" id="broother" required>
-    <br>
-
-    <label for="sister"><b>Sister Name</b></label>
-    <input type="text" placeholder="Enter Sister Name" name="sister" id="sister" required>
-    <br>
-
-    <label for="son"><b>Son Name</b></label>
-    <input type="text" placeholder="Enter Son Name" name="son" id="son" required>
-    <br>
-
-    <label for="doughter"><b>Doughter Name</b></label>
-    <input type="text" placeholder="Enter Doughter Name" name="doughter" id="doughter" required>
-    <br>
+    <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
