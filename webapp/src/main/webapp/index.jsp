@@ -21,6 +21,10 @@
     <input type="text" placeholder="Enter Adhar Number" name="adhar" id="adhar" required>
     <hr>
 
+    <label for="father"><b>Father Name</b></label>
+    <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
+    <hr>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
