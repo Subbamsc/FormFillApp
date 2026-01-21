@@ -33,6 +33,10 @@
     <input type="text" placeholder="Enter Brother Name" name="brother" id="broother" required>
     <hr>
 
+    <label for="sister"><b>Sister Name</b></label>
+    <input type="text" placeholder="Enter Sister Name" name="sister" id="sister" required>
+    <hr>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
