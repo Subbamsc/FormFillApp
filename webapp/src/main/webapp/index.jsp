@@ -45,6 +45,12 @@
     <input type="text" placeholder="Enter Doughter Name" name="doughter" id="doughter" required>
     <hr>
 
+    <label for="friend"><b>Friend Name</b></label>
+    <input type="text" placeholder="Enter Friend Name" name="friend" id="friend" required>
+    <hr>
+    <label for="friend"><b>Friend Name</b></label>
+    <input type="text" placeholder="Enter Friend Name" name="friend" id="friend" required>
+    <hr>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
