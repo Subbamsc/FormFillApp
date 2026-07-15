@@ -17,40 +17,6 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
-    <label for="adhar"><b>Adhar Number</b></label>
-    <input type="text" placeholder="Enter Adhar Number" name="adhar" id="adhar" required>
-    <hr>
-
-    <label for="father"><b>Father Name</b></label>
-    <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
-    <hr>
-
-    <label for="mother"><b>Mother Name</b></label>
-    <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
-    <hr>
-
-    <label for="brother"><b>Brother Name</b></label>
-    <input type="text" placeholder="Enter Brother Name" name="brother" id="broother" required>
-    <hr>
-
-    <label for="sister"><b>Sister Name</b></label>
-    <input type="text" placeholder="Enter Sister Name" name="sister" id="sister" required>
-    <hr>
-
-    <label for="son"><b>Son Name</b></label>
-    <input type="text" placeholder="Enter Son Name" name="son" id="son" required>
-    <hr>
-
-    <label for="doughter"><b>Doughter Name</b></label>
-    <input type="text" placeholder="Enter Doughter Name" name="doughter" id="doughter" required>
-    <hr>
-
-    <label for="friend"><b>Friend Name</b></label>
-    <input type="text" placeholder="Enter Friend Name" name="friend" id="friend" required>
-    <hr>
-    <label for="friend"><b>Friend Name</b></label>
-    <input type="text" placeholder="Enter Friend Name" name="friend" id="friend" required>
-    <hr>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
