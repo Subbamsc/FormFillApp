@@ -112,7 +112,7 @@ a:hover {
 <div class="container">
 
 <h1>🎉 Welcome to Infor 🎉</h1>
-
+<h1>🎉 Welcome to Velocity Suite 🎉</h1>
 <p>Please fill in this registration form.</p>
 
 <hr>
