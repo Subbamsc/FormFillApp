@@ -1,27 +1,94 @@
-<form action="action_page.php">
-  <div class="container">
-    <h1>Welcome!! Subba DevOps Student Registration Form!!</h1>
-    <p>Please fill in this form for registration!! Thank you</p>
-    <hr>
-    
-    <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+/* Background */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    margin: 0;
+    padding: 40px;
+}
 
-    <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+/* Main Container */
+.container {
+    background-color: white;
+    max-width: 500px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+}
 
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+/* Heading */
+h1 {
+    text-align: center;
+    color: #1e3c72;
+    font-size: 38px;
+    font-weight: bold;
+}
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <hr>
+p {
+    text-align: center;
+    font-size: 18px;
+    color: #555;
+}
 
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
-  </div>
+/* Labels */
+label {
+    font-size: 20px;
+    font-weight: bold;
+    color: #003366;
+}
 
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-</form>
+/* Input Fields */
+input[type=text],
+input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 8px 0 20px;
+    border: 2px solid #4facfe;
+    border-radius: 8px;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+
+input:focus {
+    border-color: #ff9800;
+    outline: none;
+    background-color: #f9f9f9;
+}
+
+/* Button */
+.registerbtn {
+    background: linear-gradient(to right, #28a745, #00c851);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px;
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.registerbtn:hover {
+    background: linear-gradient(to right, #ff512f, #dd2476);
+}
+
+/* Links */
+a {
+    color: #ff5722;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Sign In Section */
+.signin {
+    margin-top: 20px;
+    text-align: center;
+    background-color: #e8f4ff;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 18px;
+}
